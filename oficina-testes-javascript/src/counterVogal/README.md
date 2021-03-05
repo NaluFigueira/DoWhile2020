@@ -1,9 +1,23 @@
-Utilizando as técnicas de TDD que você aprendeu, crie uma função que receba uma string e conte o número de vogais dessa string.
+Using TDD techniques you learned, create a function that receives a string and count the string's vowels.
 
-Requisitos:
+Requirements:
 
-1. Deve ser uma função
-2. Serão consideradas vogais as letras a, e, i, o e u;
-3. Poderão ser aceitas strings contendo uma ou mais palavras;
-4. A função deve retornar um erro caso o parâmetro da função não seja uma string
-5. A função deve ser capaz de contar vogais maiúsculas e minúsculas
+1. Must be a function
+2. Vowels to be considered: a, e, i, o and u;
+3. Strings with one or more words are valid;
+4. The function must return an error when the parameter is not a string;
+5. The function must be able to count uppercase and lowercase vowels;
+
+```bash
+# Clone this repository
+$ git clone https://github.com/NaluFigueira/DoWhile2020
+
+# Go into the workshop folder
+$ cd oficina-testes-javascript
+
+# Install dependencies
+$ yarn
+
+# Run tests
+$ yarn run tests
+```
