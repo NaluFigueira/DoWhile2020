@@ -1,9 +1,5 @@
 ![Do While 2020](https://github.com/NaluFigueira/DoWhile2020/blob/main/dowhile.png)
 
-<h1 align="center">
-    Do While 2020
-</h1>
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/NaluFigueira/DoWhile2020.svg">
 
