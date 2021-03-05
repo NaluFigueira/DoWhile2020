@@ -1,8 +1,8 @@
-# Exercício FizzBuzz - Clássico
+# FizzBuzz Exercise
 
-Escreva um programa que mostre números de 1 a 100.
-- Para os múltiplos de 3 mostre “Fizz” 
-- Para os múltiplos de 5 mostre “Buzz”. 
-- Para números que sejam múltiplos de 3 e 5 mostre “FizzBuzz”.
+Write a program that prints numbers between 1 and 100.
+- For multiples of 3 show “Fizz”. 
+- For multiples of 5 show “Buzz”. 
+- For multiples of 3 and 5 show “FizzBuzz”.
 
-Se o número não for múltiplo nem de 3, nem de 5, retorne ele mesmo.
+If a number isn't multiple neither of 3 or 5, return it.
